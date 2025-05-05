@@ -53,7 +53,7 @@
                 android:layout_height="26dp"
                 android:layout_marginTop="16sp"
                 android:layout_marginEnd="46sp"
-                android:text="$5"
+                android:text="1500tg"
                 android:textAlignment="center"
                 android:textColor="@color/text_colour"
                 android:textSize="20sp"

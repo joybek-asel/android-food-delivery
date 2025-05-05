@@ -162,7 +162,7 @@
                 android:layout_height="match_parent"
                 android:padding="10sp"
                 android:paddingRight="8sp"
-                android:src="@drawable/cashondelivery"
+                android:src="@drawable/kaspi"
 
                 />
 
